@@ -1,21 +1,20 @@
-# 💫 About Me:
-🔭 I’m currently working on **personal technology projects and experiments**  <br>
-👯 I’m looking to collaborate on **open-source initiatives, Node.js applications, and robotics development**  <br>
-🌱 I’m actively expanding my knowledge in **TypeScript, PostgreSQL optimization, and complex algorithm design**  <br>
-💬 Ask me about **web development, IoT systems, and technology entrepreneurship**  <br>
-⚡ Fun fact: I designed a **high-speed line-following robot** that competed in an international competition 🏆🤖
+# Egehan Kontaş
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/foventra.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/egalgorix) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/egalgorix) 
+I build software for service monitoring, developer tooling, and desktop and mobile experiences. Most of my current work is on Foventra, where I work across backend services, APIs, and product interfaces.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=egalgorix&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=egalgorix&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=egalgorix&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## Featured projects
 
----
-[![](https://visitcount.itsvg.in/api?id=egalgorix&icon=0&color=0)](https://visitcount.itsvg.in)
+| Project | What it does |
+| --- | --- |
+| **Foventra Launcher** | A desktop Minecraft launcher built with Electron. It manages game profiles, mods and modpacks, and helps diagnose crashes. [GitHub](https://github.com/foventra/foventra-launcher) · [Downloads](https://github.com/foventra/foventra-launcher/releases) |
+| **Foventra ONE API** | An API and Node.js SDK for web and Minecraft monitoring, status pages, and incident workflows. The SDK is in beta. [Docs and usage example](https://github.com/foventra/foventra-api) · [npm](https://www.npmjs.com/package/@foventra/api) |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I’m also developing **AuraOS**, an Android home launcher built with Kotlin and Jetpack Compose. My work there focuses on home-screen layout, gestures, and performance testing on physical devices.
+
+Outside software, I designed a high-speed line-following robot that competed internationally.
+
+## Türkçe
+
+Servis izleme, geliştirici araçları ve uygulama geliştirme üzerine çalışıyorum. Foventra’da web ve Minecraft sunucularının izlenmesi, durum sayfaları ve API entegrasyonlarıyla ilgileniyorum. Masaüstünde Foventra Launcher’ı, Android’de ise AuraOS’u geliştiriyorum.
+
+[Web sitesi](https://egalgorix.com.tr/) · [Foventra](https://www.foventra.com/) · [Bluesky](https://bsky.app/profile/foventra.com) · [X](https://x.com/egalgorix)
