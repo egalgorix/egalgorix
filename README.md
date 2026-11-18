@@ -1,5 +1,8 @@
+<h1 align="center">Egehan Kontaş</h1>
+
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Egehan Kontaş · Egalgorix · Software developer" width="100%">
+  <strong>@egalgorix</strong> · Software Developer<br>
+  Backend, developer tools, desktop and Android
 </p>
 
 <p align="center">
