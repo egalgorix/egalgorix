@@ -1,20 +1,62 @@
-# Egehan Kontaş
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Egehan Kontaş · Egalgorix · Software developer" width="100%">
+</p>
 
-I build software for service monitoring, developer tooling, and desktop and mobile experiences. Most of my current work is on Foventra, where I work across backend services, APIs, and product interfaces.
+<p align="center">
+  <a href="#selected-work"><strong>Selected work</strong></a> ·
+  <a href="#engineering-focus"><strong>Engineering focus</strong></a> ·
+  <a href="#türkçe"><strong>Türkçe</strong></a> ·
+  <a href="https://github.com/foventra"><strong>Foventra on GitHub ↗</strong></a>
+</p>
 
-## Featured projects
+<p align="center">
+  I build monitoring tools, developer APIs, and desktop and Android applications.<br>
+  My current work centers on <strong>Foventra</strong>, from background jobs and API contracts to the interfaces people use to configure and troubleshoot them.
+</p>
 
-| Project | What it does |
+---
+
+## Selected work
+
+### Foventra Launcher
+
+**Windows desktop app · Electron**
+
+Foventra Launcher brings modded Minecraft installations into one workspace. Each game profile has its own game version, mod loader, content, and runtime settings. I’ve worked on mod and modpack installation, profile recovery, and a crash center that groups common Java, memory, and dependency failures.
+
+[**Download the stable release ↗**](https://github.com/foventra/foventra-launcher/releases/latest) · [Release notes](https://github.com/foventra/foventra-launcher/releases) · [Project page](https://github.com/foventra/foventra-launcher)
+
+### Foventra ONE API
+
+**Developer platform · Node.js SDK · Public beta**
+
+The ONE API lets developers bring web and Minecraft monitoring, status pages, and incident workflows into their own applications. The server-side SDK supports ESM and CommonJS, with TypeScript declarations for both. The public repository includes a read-only integration example that lists monitor counts and quota information.
+
+[**Read the docs and integration example ↗**](https://github.com/foventra/foventra-api) · [`@foventra/api` on npm](https://www.npmjs.com/package/@foventra/api)
+
+### AuraOS
+
+**Android home launcher · Kotlin and Jetpack Compose · In development**
+
+AuraOS explores how the home screen, app drawer, dock, folders, and gestures can work together in a native Android launcher. I’m working on restoring layouts consistently, keeping drag and swipe gestures predictable, and measuring animation performance on physical devices.
+
+## Engineering focus
+
+| Area | What I work on |
 | --- | --- |
-| **Foventra Launcher** | A desktop Minecraft launcher built with Electron. It manages game profiles, mods and modpacks, and helps diagnose crashes. [GitHub](https://github.com/foventra/foventra-launcher) · [Downloads](https://github.com/foventra/foventra-launcher/releases) |
-| **Foventra ONE API** | An API and Node.js SDK for web and Minecraft monitoring, status pages, and incident workflows. The SDK is in beta. [Docs and usage example](https://github.com/foventra/foventra-api) · [npm](https://www.npmjs.com/package/@foventra/api) |
-
-I’m also developing **AuraOS**, an Android home launcher built with Kotlin and Jetpack Compose. My work there focuses on home-screen layout, gestures, and performance testing on physical devices.
-
-Outside software, I designed a high-speed line-following robot that competed internationally.
+| **Backend and reliability** | Node.js services, background job queues, monitoring workflows, and API contracts. |
+| **Application development** | Electron desktop tooling and Android interfaces built with Kotlin and Compose. |
+| **Developer experience** | TypeScript declarations, integration examples, and documentation that makes the first request easy to reproduce. |
+| **Electronics and robotics** | I designed a high-speed line-following robot that competed internationally. |
 
 ## Türkçe
 
-Servis izleme, geliştirici araçları ve uygulama geliştirme üzerine çalışıyorum. Foventra’da web ve Minecraft sunucularının izlenmesi, durum sayfaları ve API entegrasyonlarıyla ilgileniyorum. Masaüstünde Foventra Launcher’ı, Android’de ise AuraOS’u geliştiriyorum.
+Foventra’da web ve Minecraft sunucularının izlenmesi, durum sayfaları ve API entegrasyonları üzerine çalışıyorum. **Foventra Launcher**, Minecraft profillerini ve mod paketlerini yönetmek için geliştirdiğim masaüstü uygulaması. **ONE API**, izleme ve olay yönetimini başka uygulamalara bağlayan API ve Node.js SDK’sı. **AuraOS**’ta ise Kotlin ve Jetpack Compose ile Android ana ekranı, uygulama çekmecesi ve hareket kontrolleri geliştiriyorum.
 
-[Web sitesi](https://egalgorix.com.tr/) · [Foventra](https://www.foventra.com/) · [Bluesky](https://bsky.app/profile/foventra.com) · [X](https://x.com/egalgorix)
+---
+
+<p align="center">
+  <a href="https://www.foventra.com/"><strong>Foventra</strong></a> ·
+  <a href="https://bsky.app/profile/foventra.com">Bluesky</a> ·
+  <a href="https://x.com/egalgorix">X</a>
+</p>
